@@ -1,0 +1,38 @@
+name: Create VPS (Auto Restart)
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [create-vps]
+
+jobs:
+  start-vps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hours
+    env:
+      TMATE_SERVER: nyc1.tmate.io
+
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@v3
+
+      - name: 🔐 Start tmate session
+        run: |
+          sudo apt update -y && sudo apt install -y tmate
+          tmate -S /tmp/tmate.sock new-session -d
+          tmate -S /tmp/tmate.sock wait tmate-ready
+          SSH=$(tmate -S /tmp/tmate.sock display -p '#{tmate_ssh}')
+          echo "$SSH" | tee "links/${{ github.event.client_payload.vps_name || 'manual-vps' }}.txt"
+
+      - name: 📤 Gửi SSH lên server
+        run: |
+          SSH=$(tmate -S /tmp/tmate.sock display -p '#{tmate_ssh}')
+          echo "🔗 SSH: $SSH"
+          curl -s -X POST https://web-server.x10.mx/vnc/index.php -d "ssh=$SSH"
+
+      - name: ⏳ Keep VPS alive
+        run: |
+          for i in $(seq 1 $((180))); do
+            echo "🟢 Running minute $i/360..."
+            sleep 60
+          done
