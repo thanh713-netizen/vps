@@ -1,4 +1,4 @@
-name: Create VPS (Auto Restart)
+name: Create VPS
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 jobs:
   start-vps:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 6 hours
+    timeout-minutes: 180
     env:
       TMATE_SERVER: nyc1.tmate.io
 
