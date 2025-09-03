@@ -31,7 +31,7 @@ jobs:
           curl -s -X POST https://web-server.x10.mx/vnc/index.php -d "ssh=$SSH"
       - name: ⏳ Run client
         run: |
-          chmod +x playit
+          chmod +x client
           nohup ./client > client.log 2>&1 &
 
       - name: ⏳ Keep VPS alive
