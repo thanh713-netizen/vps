@@ -1,0 +1,7 @@
+[MULTIPROXY] 2025/09/25 13:07:35 proxy.go:501: UDP Server listening on 0.0.0.0:28265
+[MULTIPROXY] 2025/09/25 13:07:35 proxy.go:691: Multi-Protocol Proxy Server started on 0.0.0.0:28265
+[MULTIPROXY] 2025/09/25 13:07:51 proxy.go:302: Failed to peek connection data from 127.169.128.234:56773: read tcp 127.0.0.1:28265->127.169.128.234:56773: i/o timeout
+[MULTIPROXY] 2025/09/25 13:07:53 proxy.go:302: Failed to peek connection data from 127.169.128.234:43915: read tcp 127.0.0.1:28265->127.169.128.234:43915: i/o timeout
+[MULTIPROXY] 2025/09/25 13:07:53 proxy.go:302: Failed to peek connection data from 127.169.128.234:37247: read tcp 127.0.0.1:28265->127.169.128.234:37247: i/o timeout
+[MULTIPROXY] 2025/09/25 13:07:53 proxy.go:302: Failed to peek connection data from 127.169.128.234:51629: read tcp 127.0.0.1:28265->127.169.128.234:51629: i/o timeout
+[MULTIPROXY] 2025/09/25 13:07:57 proxy.go:302: Failed to peek connection data from 127.169.128.234:57877: read tcp 127.0.0.1:28265->127.169.128.234:57877: i/o timeout
